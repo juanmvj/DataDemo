@@ -1,0 +1,25 @@
+body {
+    /*background-image: url("./jol.jpg");
+    background-size: 100%;
+
+    background-repeat: no-repeat;*/
+    background: linear-gradient(to bottom right,#3399ff,#33cccc);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    font-size: 15px;
+    width: 100%;
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    color: #333;
+    text-align: center;
+    clear: both;
+}
+
+h2
+{
+    color: white;
+}Z
