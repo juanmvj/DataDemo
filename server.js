@@ -13,8 +13,8 @@ var express = require("express"),
 
 var search = "ibm";
 var twitter_count = 100;
-var consumerKey = 'vsFH1duFcrYciRH6IxChyQDtF';
-var consumerSecret = 'Jx1ETnqAqkS0iYa56DYBrT8Ck700TVcnyi2LTH6X2T2KfDo7iS';
+var consumerKey = 'twitterKey';
+var consumerSecret = 'twitterKey';
 var cludant_username = ''
 var cludant_password = ''
 var cloudant = Cloudant({account:cludant_username, password:cludant_password});
